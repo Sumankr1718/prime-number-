@@ -1,1 +1,1 @@
-# prime-number-
+# prime_number
